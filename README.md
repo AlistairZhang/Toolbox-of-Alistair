@@ -11,3 +11,6 @@
 * [reghdfe v6.13.1 on Jan 10,2026](https://github.com/sergiocorreia/reghdfe) 高维固定核心命令。
 * [ftools v2.50.0 on Jan 09,2026](https://github.com/sergiocorreia/ftools) 大型数据集处理改善。reghdfe的必需支持文件。无需特意安装，在reghdfe最新版安装时自动更新。
 * [ivreghdfe v1.1.4 on Nov 29,2025](https://github.com/sergiocorreia/ivreghdfe) 使reghefe加入ivreg2之中。reghdfe的必需支持文件。
+# Zotero About
+* [茉莉花Jasminum](https://github.com/l0o0/jasminum) Zotero知网识别工具。
+* [Ethereal Style](https://github.com/MuiseDestiny/zotero-style) 期刊级别、外观美化、可视化进度...
